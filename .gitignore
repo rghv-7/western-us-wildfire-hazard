@@ -1,0 +1,11 @@
+.venv/
+data/
+dev_png/
+__pycache__/
+.ipynb_checkpoints/
+*.nc
+*.grib
+*.grib2
+.cdsapirc
+src/test_code_era5.py
+files/
